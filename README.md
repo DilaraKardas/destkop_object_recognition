@@ -2,10 +2,6 @@
 
 # YOLOv8 Object Detection Project
 
----
-
-## 🇬🇧 English
-
 ### 📌 Project Description
 
 This project is an **object detection** study developed in **less than 1 week**  
@@ -68,6 +64,11 @@ yolo_webcam_test/
 ```
 
 ---
+
+### 🚀 Model and Dataset
+You can access the model and the dataset folder via drive link below:
+
+[Download the model and the dataset](https://drive.google.com/drive/folders/1JQMM69MS2JZxDmcGzi7xCo1TVw3XwC6N?usp=sharing)
 
 ### ⚙️ Installation
 
