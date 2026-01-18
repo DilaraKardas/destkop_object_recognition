@@ -40,9 +40,8 @@ The dataset used in this project:
 
 The main goal of this study is:
 
-- Rather than focusing on model architecture,
-- To understand the impact of **dataset quality and diversity**
-- on the object detection model.
+  Rather than focusing on model architecture, To understand the impact of **dataset quality and diversity**
+  on the object detection model.
 
 Therefore, the model was:
 - Trained using a ready-made architecture (YOLOv8),
