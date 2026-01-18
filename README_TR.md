@@ -1,9 +1,6 @@
 🇬🇧 [English](README.md) | 🇹🇷 Türkçe
 
-# YOLOv8 Object Detection Project  
 # YOLOv8 Nesne Tespiti Projesi
-
----
 
 ## 🇹🇷 Türkçe
 
@@ -63,6 +60,11 @@ Bu nedenle model:
 - Roboflow
 
 ---
+
+### 🚀 Model ve Veri Seti
+Aşağıdaki drive linkinden modele ve verilere ulaşabilirsiniz:
+
+[Modeli ve veri setini indir](https://drive.google.com/drive/folders/1JQMM69MS2JZxDmcGzi7xCo1TVw3XwC6N?usp=sharing)
 
 ### 📂 Proje Klasör Yapısı
 ```text
