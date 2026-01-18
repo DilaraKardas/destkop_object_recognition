@@ -1,4 +1,4 @@
-🇬🇧 English | 🇹🇷 [Türkçe](README_TR.md)
+🇬🇧 [English](README.md) | 🇹🇷 Türkçe
 
 # YOLOv8 Object Detection Project  
 # YOLOv8 Nesne Tespiti Projesi
