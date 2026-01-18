@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+
+# Large files
+*.pt
+*.pth
+*.onnx
+
+# Colab
+*.zip
